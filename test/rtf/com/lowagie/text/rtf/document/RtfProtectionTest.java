@@ -58,7 +58,8 @@ import java.io.IOException;
 
 import org.junit.Test;
 
-import com.lowagie.text.DocWriter;
+import com.itextpdf.text.DocWriter;
+import com.itextpdf.text.rtf.document.RtfProtection;
 import com.lowagie.text.rtf.RtfTestBase;
 
 /**

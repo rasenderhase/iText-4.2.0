@@ -56,6 +56,7 @@ import java.io.IOException;
 
 import org.junit.Test;
 
+import com.itextpdf.text.rtf.document.RtfCodePage;
 import com.lowagie.text.rtf.RtfTestBase;
 
 /**

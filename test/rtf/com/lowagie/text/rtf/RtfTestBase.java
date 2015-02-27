@@ -57,8 +57,8 @@ import java.io.IOException;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.lowagie.text.DocWriter;
-import com.lowagie.text.rtf.document.RtfDocument;
+import com.itextpdf.text.DocWriter;
+import com.itextpdf.text.rtf.document.RtfDocument;
 
 /**
  * The <code>RtfTestBase</code> is a junit test case that provides
